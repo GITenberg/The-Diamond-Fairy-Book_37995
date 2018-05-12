@@ -1,0 +1,57 @@
+_repo: The-Diamond-Fairy-Book_37995
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, H.R.
+    - Millar, Harold Robert
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+  - agent_name: Papé, Frank Cheyne
+    aliases:
+    - Pape, Frank Cheyne
+    - Papé, Frank C.
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '39182'
+    url: http://www.gutenberg.org/2009/agents/39182
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Princess Crystal, or the hidden treasure / by Isabel Bellerby --
+  The story of the invisible kingdom / from the German of Richard Leander -- How Sampo
+  Lappelill saw the mountain king / from the Swedish of Z. Topelius -- The witch-dancer's
+  doom / a Breton legend -- The three valleys / from the German -- The spring-tide
+  of love / by Pleydell North (Mrs. Egerton Eastwick) -- Ringfalla bridge / by K.E.
+  Sutter -- The children's fairy / from the French of Saint-Juirs -- Wittysplinter
+  / from the German of Clemens Brentano -- The mid-day rock / from the French of J.
+  Jarry -- Lillekort / from the French of Xavier Marmier -- The ten little fairies
+  / from the French of Georges Mitchell -- The magician and his pupil / from the German
+  of A. Godin -- The strawberry thief / from the German of Pauline Schanz -- The adventures
+  of Said / from the German of W. Hauff -- Little blue flower / from the German of
+  Miss F.E. Hynam -- "The princess who despised all men" / by Charles Smith Cheltnam
+  -- The neckless of tears / by Mrs. Egerton Eastwick -- The prince and the lions
+  / from the Persian.
+title: The Diamond Fairy Book
+url: http://www.gutenberg.org/ebooks/37995
